@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: .16rem;
+}
+.hello{
+  padding: 0 .18rem;
+}
+.heard{
+  width: 3.75rem;
+  height: .49rem;
+  margin-top: .1rem;
+}
+.heard span{
+  color: #2ca532;
+}
+.heard input{
+  margin-left: .1rem;
+  border: none;
+  width: 2.97rem;
+  height: .32rem;
+  font-size: .14rem;
+  background: url("../images/sou_03.gif") no-repeat 50%;
+}
+.find_box{
+  height: 2.95rem;
+}
+.find{
+  width: 1.1rem;
+  float: left;
+}
+.find a{
+  text-decoration: none;
+  display: inline-block;
+  width: .52rem;
+  height: .45rem;
+  text-align: center;
+  margin-left: .32rem;
+  margin-bottom: .25rem;
+}
+.find a string{
+  font-size: .24rem;
+}
+.find a span{
+  font-size: .12rem;
+  color: #aaaaaa;
+}
+.login{
+  width: 3.75rem;
+  height: .168rem;
+  padding: .13rem .18rem .13rem 0;
+}
+.login a{
+  display: inline-block;
+  text-decoration: none;
+  color: #2ca532;
+  width: 1.8rem;
+  text-align: center;
+  /*border-right: .01rem solid #aaaaaa;*/
+}

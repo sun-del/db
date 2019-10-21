@@ -1,0 +1,101 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: .16rem;
+}
+.heard{
+  position: fixed;
+  top:0;
+  width: 3.39rem;
+  height: .4rem;
+  line-height: 0;
+  padding: .1rem .18rem;
+  background-color: #ffffff;
+}
+.heard img{
+  float: left;
+  width: .39rem;
+  height: .39rem;
+  border-radius: .1rem;
+}
+.heard p{
+  line-height: .2rem;
+}
+.heard_txt{
+  float: left;
+  margin-left: .1rem;
+}
+.heard_txt_one{
+  font-size: .16rem;
+}
+.heard_txt_two{
+  font-size: .12rem;
+  color: #aaaaaa;
+}
+.heard_txt_three{
+  float: right;
+  display: inline-block;
+  background-color: #2ca532;
+  padding: .07rem .16rem;
+  border-radius: .3rem;
+  font-size: .14rem;
+  color: #ffffff;
+}
+.title{
+  margin-top: .8rem;
+}
+.title .title_one{
+  width: 2.95rem;
+  font-size: .26rem;
+  margin: .3rem auto .15rem;
+  text-align: center;
+}
+.title .title_two{
+  width: .8rem;
+  margin: .12rem auto .15rem;
+}
+.title_three{
+  padding: 0 .4rem 0 .4rem;
+  text-align: center;
+}
+.title_three .title_three_top{
+  font-size: .12rem;
+  width: 2.4rem;
+
+}
+.title_three_bottom{
+  font-size: .12rem;
+  color: #2ca532;
+}
+.frame_left{
+  display: inline-block;
+  height: .3rem;
+  border: .01rem solid #2ca532;
+  line-height: .3rem;
+  padding: 0 .18rem;
+  border-radius: .04rem;
+}
+.frame_left_bac{
+  vertical-align:middle;
+  display: inline-block;
+  width: .19rem;
+  height: .16rem;
+  background: url("../images/xin_03.gif") no-repeat;
+}
+.frame_right{
+  display: inline-block;
+  height: .3rem;
+  border: .01rem solid #2ca532;
+  line-height: .3rem;
+  padding: 0 .1rem;
+  border-radius: .04rem;
+}
+.frame{
+  margin-top:.2rem;
+  margin-bottom: .25rem;
+  margin-left: 50%;
+  margin-left: .94rem;
+  height: .32rem;
+  color: #2ca532;
+}

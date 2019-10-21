@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  /*line-height: 0;*/
+  font-size: .16rem;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+.heard{
+  width: 3.4rem;
+  height: .49rem;
+  padding: 0 .17rem;
+}
+.heard .one{
+  float: left;
+  margin-top: .1rem;
+}
+.heard_text{
+  float: right;
+  margin-right: .1rem;
+  line-height: .49rem;
+}
+.heard .two{
+  float: right;
+  margin-top: .15rem;
+}
+

@@ -1,0 +1,16 @@
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+  color: #01ff70;
+}
+.nav{
+  padding: 0 .17rem;
+  width: 3.48rem;
+}
+.pic{
+  width: 1.07rem;
+  height: 1.5rem;
+}
